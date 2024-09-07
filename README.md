@@ -15,11 +15,53 @@ This repository contains an Excel-based data analysis project that involves data
 - **Reporting:** Creates and manages various analytical reports.
 ## Sales Report :
 - **Project objective:**
-   **1.** create a _[Customer performance report]
+
+    **1.** create a _[Customer performance report]
   (https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Customers%20sales%20report.pdf)_
+
    **2.** Conduct a comprehensive comparison between_[market performance and sales targets]_
   ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))
-   **3.** 
+
+    **3.** Conduct a calculation_[top 10 product]_
+  ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/%25%20Incresce%20in%20Net%20Sales%20of%20Top%2010%20Products%20in%202020%20and%202021.pdf))
+
+  **4.** Performance of top 5 countries_[top 5 countries sales]_
+  https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Top%205%20Countries%20Sales%20in%202021.pdf
+
+  **5.** Calculate top and bottom 5 product sales_[top and bottom 5 products]_
+  ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Top%20and%20Bottom%205%20Products%20in%20Quantity%20Sold.pdf))
+
+  **6.** Find new product company started selling_[New Product]
+  ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/New%20Products%20Atliq%20began%20selling%20in%202021.pdf))
+
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+## Finance Report :
+
+- **Project objective:**
+
+  **1.** Create Profit and Loss (P&L) reports by_[Fiscal_Year]
+  ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf))
+
+  **2.** Create Profit and Loss (P&L) reports by_[Markets]
+  ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Market.pdf))
+
+   **3.** Create Profit and Loss (P&L) reports by_[Months]
+  ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf))
+
+  **4.** Create Gross Margin % by Quaters_[Gross Margin %]
+  ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Gross%20Margin%20%25%20of%20Sub-zones%20in%20Quaters.pdf))
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
 
 ## Getting Started
 
