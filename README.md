@@ -17,6 +17,9 @@ This repository contains an Excel-based data analysis project that involves data
 - **Project objective:**
    **1.** create a _[Customer performance report]
   (https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Customers%20sales%20report.pdf)_
+   **2.** Conduct a comprehensive comparison between_[market performance and sales targets]_
+  ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))
+   **3.** 
 
 ## Getting Started
 
