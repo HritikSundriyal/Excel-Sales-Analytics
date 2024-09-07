@@ -76,13 +76,25 @@ This repository contains an Excel-based data analysis project that involves data
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
 
-### Prerequisites
+## Why It Is Noteworthy
+- [x] **Comprehensive Analysis:** The project provides a multifaceted view of sales performance, covering various critical aspects from annual sales growth to product-specific data.
+- [x] **Actionable Insights:** The analysis helps stakeholders make informed decisions by highlighting key trends, such as successful new products and high-performing markets.
+- [x] **Data-Driven Decision Making:** By understanding the top and bottom-performing products and countries, the company can strategically adjust its sales and marketing efforts.
+- [x] **Year-on-Year Comparison:** Comparing data from 2020 to 2021 offers a clear picture of growth or decline, helping to gauge the effectiveness of business strategies.
+
+ 
+## Prerequisites
 
 - Microsoft Excel 2016 or later
 - Basic understanding of Excel functions and formulas
 - Familiarity with Power Query and DAX (optional, but helpful)
 
-### Installation
+###  Who Maintains the Project
+ #### Project Maintainer
+
+This project is maintained by **Hritik Sundriyal**. For any inquiries, issues, or suggestions regarding the project, please reach out via ayushsundriyal09213@gmail.com 
+  Contributions and feedback are welcome to improve the analysis and insights provided.
+
 
 1. **Clone the Repository:**
    ```bash
