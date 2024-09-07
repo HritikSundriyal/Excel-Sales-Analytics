@@ -86,4 +86,4 @@ This repository contains an Excel-based data analysis project that involves data
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone  https://hritiksundriyal.github.io/Excel-Sales-Analytics/
