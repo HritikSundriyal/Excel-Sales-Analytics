@@ -20,7 +20,7 @@ This repository contains an Excel-based data analysis project that involves data
   (https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Customers%20sales%20report.pdf)_
 
    **2.** Conduct a comprehensive comparison between_[market performance and sales targets]_
-  ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))
+  (([https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf](https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)))
 
     **3.** Conduct a calculation_[top 10 product]_
   ((https://github.com/HritikSundriyal/Excel-Sales-Analytics/blob/main/%25%20Incresce%20in%20Net%20Sales%20of%20Top%2010%20Products%20in%202020%20and%202021.pdf))
